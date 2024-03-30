@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: hsl(20, 14.3%, 4.1%);
+  color: hsl(0, 0%, 95%);
+}
